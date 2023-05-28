@@ -1,4 +1,4 @@
-# Snake_Game_Using_PyGame
+# Snake game using PyGame.
 A simple Snake Game in Python utilizing the PyGame package.
 
 --- DEV LOGS ---
